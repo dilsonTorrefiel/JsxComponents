@@ -1,2 +1,2 @@
-# JsxComponents
+# ReactJs
 Created with CodeSandbox
